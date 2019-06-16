@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
+## Rename Local-Branch
+cmd: git branch -m 001-component-communication-child-to-parent
+
 ## Application Ref Link
 https://www.concretepage.com/angular/angular-viewchildren
 
